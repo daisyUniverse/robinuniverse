@@ -1,3 +1,5 @@
+![Made by the extremely talented loveshock](logo.png)
+
 # Hi, welcome to my Github!
 
 I'm robin! I'm a linux nerd who likes to tweak everything I mess with, so I have had my hand in a lot of different pots, like
@@ -10,4 +12,7 @@ If you've gotten any use out of any of my projects, you help me out by supportin
 Hits on this page so far:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frobinuniverse&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+*[(logo made by the very talented loveshock)](https://twitter.com/_loveshock)*
 
